@@ -1,0 +1,93 @@
+---
+title: "Notion  层级结构"
+author: ""
+description: ""
+created: "2022-09-09 11:02"
+updated: "2022-09-09 11:49"
+status: "done"
+categories: []
+tags: [Notion,]
+alias: []
+---
+- Block
+    - Basic
+        - Text
+        - Page
+        - Link to page
+        - Heading 1-3
+        - To-do list
+        - Bulleted list
+        - Numbered list
+        - Toggle list
+        - Quote
+        - Callout
+        - Table
+        - Divider
+    - Inline
+        - Mention a person/page
+        - Date or reminder
+        - Emoji
+        - Equation
+    - Database
+    - Media
+    - Embeds
+    - Synced Database
+    - Advanced
+        - TOC
+        - Block equation
+        - Template button
+        - Breadcrumb
+        - Synced block
+        - Toggle heading 1-3
+        - 2-5 columns
+        - Code - Mermaid
+    - Turn Into
+        - Text
+        - Heading 1-3
+        - Page
+        - List
+        - Code
+        - Quote
+        - Callout
+        - Block equation
+        - Synced block
+        - Toggle heading 1-3
+        - 2-5 columns
+    - Actions
+    - Color
+    - Background
+- Page
+- Database
+    - View Layout
+        - List
+        - Table
+        - Board
+        - Gallery
+        - Calendar
+        - Timeline
+    - Properties
+        - Basic
+            - Text
+            - Number
+            - Select
+            - Multi-select
+            - Status
+            - Date
+            - Person
+            - Files & media
+            - Checkbox
+            - URL
+            - Email
+            - Phone
+        - Advanced
+            - Formula
+            - Relation
+            - Rollup
+            - Created time
+            - Created by
+            - Last edited time
+            - Last edited by
+    - Filter
+    - Sort
+    - Group
+- Workspace
