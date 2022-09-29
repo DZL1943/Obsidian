@@ -157,12 +157,10 @@ links:
 - Tracker
 - Vantage
 
-## Tips
+## Tips & Issues
 
 - 尽量原子化
 - 尽量不要有同名文件 (比如 Readme 这种)
-
-## Issues
 
 ## 参考
 

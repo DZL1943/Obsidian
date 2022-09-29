@@ -43,10 +43,21 @@ basic workflow
 - merge
     - cherry-pick
 - rebase
+    - pick
+    - reword
+    - edit
+    - squash
+    - fixup
+    - exec
+    - break
+    - drop
+    - label
+    - reset
+    - merge
 ### Tag
 ### Submodule
 
-## Tips
+## Tips & Issues
 - [gitignore](https://docs.github.com/cn/get-started/getting-started-with-git/ignoring-files)
 - [alias](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
     - ga add
@@ -61,13 +72,13 @@ basic workflow
     - gm merge
     - gp push
     - gst status
-
-## Issues
 - 如何让 gitignore 仅作用于 push? 如何在使用 git 的同时避免隐私信息推送到远程?
     - 假如用分支区分, 如何在 merge 时应用 ignore?
     - 如何把文件夹变成子模块? 
         - [Splitting a subfolder out into a new repository - GitHub Docs](https://docs.github.com/en/get-started/using-git/splitting-a-subfolder-out-into-a-new-repository)
         - [Nested git repositories without remotes (a.k.a. git submodule without remotes) - Stack Overflow](https://stackoverflow.com/questions/6100966/nested-git-repositories-without-remotes-a-k-a-git-submodule-without-remotes)
 - git status 中文乱码问题  `git config --global core.quotepath false`
+- 计算仓库大小 `git count-objects -vH`
+- 清空提交历史 [git - how to delete all commit history in github? - Stack Overflow](https://stackoverflow.com/questions/13716658/how-to-delete-all-commit-history-in-github)
 
 ## Internal
