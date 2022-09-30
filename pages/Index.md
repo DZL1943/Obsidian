@@ -19,4 +19,4 @@ links:
     - [macOS App](../areas/CS/Software/macOS%20App.md)
     - [Android App](../areas/CS/Software/Android%20App.md)
 - 职业规划
-    - [领域](领域.md)
+    - [领域](../thoughts/领域.md)
