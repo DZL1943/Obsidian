@@ -133,8 +133,8 @@ links:
 - Annotator
 - Creases
 - Custom Frames
-- Day Planner
-- DB Folder
+- Day Planner: 没必要吧
+- DB Folder: 理念不错, 但还有问题, 可以但没必要
 - Enhancing Mindmap
 - Fantasy Calendar
 - Heatmap Calendar
@@ -142,20 +142,20 @@ links:
 - Juggl
 - Local images
 - MetaEdit
-- Multi-Column Markdown
-- Notion-Like Tables
+- Multi-Column Markdown: 好像有点麻烦
+- Notion-Like Tables: 目前体验还很差
 - Obsidian shared to Notion
-- Obsidian Tabs
+- Obsidian Tabs: 印象中不太好用
 - Org Mode
-- Pandoc Plugin
+- Pandoc Plugin: 也就那样?
 - Privacy Glasses
 - Quick Switcher++
 - Self-hosted LiveSync
 - Status Bar Pomodoro Timer
 - TagFolder
-- Timelines
-- Tracker
-- Vantage
+- Timelines: 没整明白
+- Tracker: 没整明白
+- Vantage: 没必要
 
 ## Tips & Issues
 

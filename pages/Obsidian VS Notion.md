@@ -11,23 +11,24 @@ alias: []
 links: 
 ---
 
-| Feature   | Obsidian | Notion | Remark                  |
-|:--------- |:-------- |:------ |:----------------------- |
-| Block     |          | 👍👍👍 | Notion 完胜             |
-| Backlink  | 👍👍     | 👍     | Notion 有同步块         |
-| Database  |          | 👍👍👍 | Notion 完胜             |
-| Sync      |          | 👍     | Obsidian 的选择更多     |
-| Offline   | 👍       |        | Notion 完败             |
-| Online    |          | 👍👍   |                         |
-| Markdown  | 👍👍     | 👍👍   | 都支持所见即所得        |
-| Table     | 👍       | 👍👍👍 | 都不错, Notion 体验更好 |
-| Mindmap   | 👍       |        |                         |
-| Highlight |          | 👍👍   |                         |
-| Callout   | 👍       | 👍👍   |                         |
-| Comment   |          | 👍👍   |                         |
-| Column    |          | 👍👍👍 |                         |
-|           |          |        |                         |
-|           |          |        |                         |
+|  Feature    |  Obsidian  |  Notion  |  Remark                   |
+|:------------|:-----------|:---------|:--------------------------|
+|  Block      |            |  👍👍👍  |  Notion 完胜                |
+|  Backlink   |  👍👍      |  👍      |  Notion 有同步块              |
+|  Database   |            |  👍👍👍  |  Notion 完胜                |
+|  Sync       |            |  👍      |  Obsidian 的选择更多           |
+|  Offline    |  👍        |          |  Notion 完败                |
+|  Online     |            |  👍👍    |                           |
+|  Markdown   |  👍👍      |  👍👍    |  都支持所见即所得                 |
+| Tag         | 👍         |          |                           |
+|  Table      |  👍        |  👍👍👍  |  都不错, Notion 体验更好         |
+|  Mindmap    |  👍        |          |                           |
+|  Highlight  |            |  👍👍    |                           |
+|  Callout    |  👍        |  👍👍    |                           |
+|  Comment    |            |  👍👍    |                           |
+|  Column     |            |  👍👍👍  |                           |
+|             |            |          |                           |
+|             |            |          |                           |  
 
 > Ob 的优势在于
 > - 离线、透明存储
