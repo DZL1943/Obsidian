@@ -3,7 +3,7 @@ title: Vim
 author: "Derek"
 description: ""
 created: "2022-09-26 13:21"
-updated: "2022-09-26 16:37"
+modified: "2022-09-26 16:37"
 status: "publish"
 categories: []
 tags: []

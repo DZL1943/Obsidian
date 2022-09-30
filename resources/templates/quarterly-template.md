@@ -1,6 +1,6 @@
 ---
 date: 
-tags: [quarterly,]
+tags: [journal, quarterly,]
 ---
 
 ## Agenda

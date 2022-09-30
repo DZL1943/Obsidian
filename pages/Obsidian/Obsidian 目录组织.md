@@ -3,7 +3,7 @@ title: Obsidian 目录组织
 author: ""
 description: ""
 created: "2022-09-06 21:04"
-updated: "2022-09-26 18:00"
+modified: "2022-09-26 18:00"
 status: "publish"
 categories: []
 tags: [Obsidian,]

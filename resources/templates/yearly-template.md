@@ -1,6 +1,6 @@
 ---
 date: 
-tags: [yearly,]
+tags: [journal, yearly,]
 ---
 
 ## Agenda

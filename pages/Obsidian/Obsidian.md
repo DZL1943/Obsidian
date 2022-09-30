@@ -3,7 +3,7 @@ title: Obsidian
 author: ""
 description: ""
 created: "2022-09-06 17:59"
-updated: "2022-09-27 17:36"
+modified: "2022-09-27 17:36"
 status: "in progress"
 categories: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 date: 
-tags: [weekly,]
+tags: [journal, weekly,]
 ---
 
 ## Agenda

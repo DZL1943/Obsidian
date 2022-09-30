@@ -3,7 +3,7 @@ title: "Obsidian VS Notion"
 author: ""
 description: ""
 created: "2022-09-20 11:19"
-updated: "2022-09-20 11:20"
+modified: "2022-09-20 11:20"
 status: "draft"
 categories: []
 tags: []

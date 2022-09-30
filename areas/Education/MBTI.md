@@ -3,7 +3,7 @@ title: "MBTI"
 author: ""
 description: ""
 created: "2022-05-12 08:07"
-updated: "2022-09-23 08:08"
+modified: "2022-09-23 08:08"
 status: "pblish"
 categories: []
 tags: []

@@ -5,7 +5,7 @@ mood: 😡😣🙁😑😐🙂😊😄
 diet: 
 habit: 
 summary: 
-tags: [daily,]
+tags: [journal, daily,]
 ---
 
 ## Agenda

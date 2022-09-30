@@ -3,7 +3,7 @@ title: "Notion"
 author: ""
 description: ""
 created: "2022-09-09 09:08"
-updated: "2022-09-09 16:53"
+modified: "2022-09-09 16:53"
 status: "publish"
 categories: []
 tags: [notion,]
