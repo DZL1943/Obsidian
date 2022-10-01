@@ -138,6 +138,7 @@ links:
 - DB Folder: 理念不错, 但还有问题, 可以但没必要
 - Enhancing Mindmap
 - Fantasy Calendar
+- Flashcards
 - Gallery
 - Heatmap Calendar
 - Image auto upload Plugin
@@ -154,6 +155,7 @@ links:
 - Quick Switcher++
 - Self-hosted LiveSync
 - Shell commands
+- Smart Random Note
 - Status Bar Pomodoro Timer
 - TagFolder
 - Text expand
