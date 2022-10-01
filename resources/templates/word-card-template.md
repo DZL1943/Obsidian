@@ -1,10 +1,11 @@
 ---
-term: "<% tp.file.title %>"
+type: word
+lang: en_US
 grade: 
-star: 
+star: ⭐️⭐️⭐️⭐️⭐️
 tags: []
 alias: []
-master: 
+master: 👍👍👍👍👍
 ---
 
 ## 词性、释义和例句

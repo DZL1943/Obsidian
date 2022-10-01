@@ -3,7 +3,7 @@ title: Obsidian
 author: ""
 description: ""
 created: "2022-09-06 17:59"
-modified: "2022-09-27 17:36"
+modified: "2022-10-01 17:01"
 status: "in progress"
 categories: []
 tags: []
@@ -113,6 +113,7 @@ links:
 | Quick Explorer                         | ⭐️⭐️⭐️       |                                                                   |
 | Obsidian Git                           | ⭐️⭐️⭐️       | 注意备份!                                                         |
 | Zoom                                   | ⭐️⭐️⭐️       |                                                                   |
+| Dictionary                             | ⭐️⭐️⭐️       |                                                                   |
 | Tag Wrangler                           | ⭐️⭐️          | 个人比较少用到                                                    |
 | Recent Files                           | ⭐️⭐️          |                                                                   |
 | Focus Mode                             | ⭐️⭐️          |                                                                   |
@@ -137,6 +138,7 @@ links:
 - DB Folder: 理念不错, 但还有问题, 可以但没必要
 - Enhancing Mindmap
 - Fantasy Calendar
+- Gallery
 - Heatmap Calendar
 - Image auto upload Plugin
 - Juggl
@@ -151,8 +153,10 @@ links:
 - Privacy Glasses
 - Quick Switcher++
 - Self-hosted LiveSync
+- Shell commands
 - Status Bar Pomodoro Timer
 - TagFolder
+- Text expand
 - Timelines: 没整明白
 - Tracker: 没整明白
 - Vantage: 没必要
