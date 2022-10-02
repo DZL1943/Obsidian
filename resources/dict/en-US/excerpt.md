@@ -1,7 +1,7 @@
 ---
 # 由 Obsidian Dictionary Plugin 插件自动生成
 type: card-word
-lang: en_US
+lang: en-US
 grade: 
 star: ⭐️⭐️⭐️
 tags: ["card"]

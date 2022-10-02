@@ -1,6 +1,6 @@
 ---
 type: card-word
-lang: en_US
+lang: en-US
 grade: 
 star: ⭐️⭐️⭐️⭐️⭐️
 tags: ["card"]
