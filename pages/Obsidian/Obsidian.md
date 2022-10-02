@@ -125,8 +125,6 @@ links:
 | Wikilinks to MDLinks                   | ⭐️             |                                                                   |
 | Highlightr                             | ⭐️             | 右键不显示了? 貌似也不需要了 (有内置语法)                         |
 
-![](../../resources/attachments/Obsidian-20220928.png)
-
 
 其他
 
@@ -163,6 +161,9 @@ links:
 - Timelines: 没整明白
 - Tracker: 没整明白
 - Vantage: 没必要
+
+
+![plugins-20221002|200](../../resources/attachments/Obsidian-20221002.png)
 
 ## Tips & Issues
 
