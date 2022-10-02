@@ -90,10 +90,11 @@ links:
 | Style Settings                         | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Outliner                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Hover Editor                           | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| cMenu                                  | ⭐️⭐️⭐️⭐️⭐️ | 建议用魔改版 Editing Toolbar                                                                  |
+| cMenu                                  | ⭐️⭐️⭐️⭐️⭐️ | 建议用魔改版 Editing Toolbar                                      |
 | Kanban                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Linter                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Checklist                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| BRAT                                   | ⭐️⭐️⭐️⭐️    | 安装未上架的插件                                                  | 
 | QuickAdd                               | ⭐️⭐️⭐️⭐️    | 非必需                                                            |
 | Sliding Panes                          | ⭐️⭐️⭐️⭐️    |                                                                   |
 | Periodic Notes                         | ⭐️⭐️⭐️⭐️    |                                                                   |
