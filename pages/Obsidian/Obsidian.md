@@ -90,7 +90,7 @@ links:
 | Style Settings                         | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Outliner                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Hover Editor                           | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| cMenu                                  | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| cMenu                                  | ⭐️⭐️⭐️⭐️⭐️ | 建议用魔改版 Editing Toolbar                                                                  |
 | Kanban                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Linter                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Checklist                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
@@ -139,6 +139,7 @@ links:
 - Enhancing Mindmap
 - Fantasy Calendar
 - Flashcards
+- *Floating TOC*
 - Gallery
 - Heatmap Calendar
 - Image auto upload Plugin
