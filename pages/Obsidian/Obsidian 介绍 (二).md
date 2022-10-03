@@ -18,7 +18,6 @@ aliases: []
     - 图片管理
         - Paste image rename
         - Clean Unused Images
-- BRAT
 
 ## Obsidian GTD
 
@@ -32,10 +31,11 @@ aliases: []
 - Kanban
 
 ## 插件介绍
-- Dictionary
 - Linter
 - Natural Language Dates
 - Templater
+- Dictionary
+- BRAT
 ## 备份同步
 
 - Syncthing

@@ -94,7 +94,7 @@ links:
 | Kanban                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Linter                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Checklist                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| BRAT                                   | ⭐️⭐️⭐️⭐️    | 安装未上架的插件                                                  | 
+| BRAT                                   | ⭐️⭐️⭐️⭐️    | 安装未上架的插件                                                  |
 | QuickAdd                               | ⭐️⭐️⭐️⭐️    | 非必需                                                            |
 | Sliding Panes                          | ⭐️⭐️⭐️⭐️    |                                                                   |
 | Periodic Notes                         | ⭐️⭐️⭐️⭐️    |                                                                   |
@@ -121,6 +121,7 @@ links:
 | Paste image rename                     | ⭐️⭐️          |                                                                   |
 | Clean Unused Images                    | ⭐️⭐️          |                                                                   |
 | Habit Tracker                          | ⭐️⭐️          | &nbsp; 还行                                                       |
+| Shell commands                         | ⭐️⭐️          |                                                                   |
 | Number Headings                        | ⭐️⭐️          |                                                                   |
 | Homepage                               | ⭐️             |                                                                   |
 | Wikilinks to MDLinks                   | ⭐️             |                                                                   |
