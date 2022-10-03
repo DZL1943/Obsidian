@@ -175,3 +175,9 @@ links:
 
 - [我的笔记工具和体系](../我的笔记工具和体系.md)
 - [Obsidian VS Notion](../Obsidian%20VS%20Notion.md)
+- [Obsidian 目录组织](Obsidian%20目录组织.md)
+- Obsidian Table
+- Obsidian GTD
+- Obsidian Journal
+- Obsidian Card
+- Obsidian Booknote
