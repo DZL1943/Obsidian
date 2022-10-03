@@ -24,6 +24,8 @@ aliases: []
 - Calendar
 - Periodic Notes
 - Tasks
+    - every month on the 1st
+    - every 3 days when done
 - Checklist
     - Tag
     - Include Files
