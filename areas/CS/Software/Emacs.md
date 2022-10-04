@@ -43,7 +43,7 @@ aliases: []
     - y 粘贴
     - / undo
     - C-c
-    - C-h 帮助
+    - C-h 帮助 (按 q 可以关闭临时窗口)
         - b
         - f
         - k
