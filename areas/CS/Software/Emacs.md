@@ -69,7 +69,7 @@ aliases: []
         - C-; comment-line
 - M
     - ! shell-command
-    - >/< BOF/EOF
+    - <> EOF/BOF
     - % replace
     - M-x
     - M-g
