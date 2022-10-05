@@ -1,6 +1,6 @@
 ---
 title: find
-author: "Derek"
+author: ""
 description: ""
 created: "2022-09-28 14:36"
 modified: "2022-09-28 14:36"

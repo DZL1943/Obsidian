@@ -1,6 +1,6 @@
 ---
 title: Git
-author: "Derek"
+author: ""
 description: ""
 created: "2022-09-26 09:58"
 modified: "2022-09-27 11:12"

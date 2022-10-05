@@ -1,6 +1,6 @@
 ---
 title: "ASCII"
-author: "Derek"
+author: ""
 description: ""
 created: "2022-09-26 14:34"
 modified: "2022-09-26 14:45"

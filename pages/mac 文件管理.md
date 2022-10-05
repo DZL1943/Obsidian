@@ -1,6 +1,6 @@
 ---
 title: mac 文件管理
-author: "Derek"
+author: ""
 description: ""
 created: "2022-09-23 09:47"
 modified: "2022-09-23 14:50"

@@ -1,6 +1,6 @@
 ---
 title: Vim
-author: "Derek"
+author: ""
 description: ""
 created: "2022-09-26 13:21"
 modified: "2022-09-26 16:37"
