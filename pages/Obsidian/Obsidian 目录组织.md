@@ -11,7 +11,6 @@ alias: []
 ---
 
 - inbox
-    - jottings: 想法、速记
 - local: 各设备不进行同步的本地目录
     - drafts
 - ~~private~~
@@ -24,6 +23,7 @@ alias: []
     - *reflect*
     - *memo*: 值得记录的某时刻下的事情和感受
     - *habits*
+    - jottings: 想法、速记
 - thoughts
 - pages: 包括 note、wiki、snippet 等, 内部可再按文件夹组织
 - ~~wiki~~

@@ -1,4 +1,5 @@
 .obsidian/
+.obsidian*/
 .vscode/
 .stfolder/
 .stversions/
@@ -6,8 +7,8 @@
 logseq/
 local/*
 inbox/*
-!inbox/jottings.md
 journals/*
+!jottings.md
 private/
 media/
 exports/
