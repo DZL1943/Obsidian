@@ -3,7 +3,7 @@ title: Emacs
 author: ""
 description: ""
 created: "2022-10-05 04:04"
-modified: "2022-10-05 05:42"
+modified: "2022-10-05 16:56"
 status: "draft"
 categories: []
 tags: []
@@ -12,7 +12,11 @@ aliases: []
 
 ## [Doc](https://www.gnu.org/software/emacs/documentation.html)
 
-建议先看应用内的 tutorial
+- tutorial
+- manual
+- elisp
+- other
+    - Org mode
 
 ## Keymap
 
@@ -76,6 +80,62 @@ aliases: []
         - g goto-line
 
 ## 配置
+[Init File (GNU Emacs Manual)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html)
+
+```lisp
+(package-initialize)
+
+;; === general settings
+(setq inhibit-startup-message t)    ;; no startup message
+(setq initial-major-mode 'text-mode)   ;; scratch default mode
+(setq initial-scratch-message nil)    ;; clean scratch default text
+(setq help-window-select 't)    ;; auto switch to help window, input 'q' for quit
+(global-linum-mode t)   ;; show line number (legacy)
+(setq column-number-mode t)   ;; show column number at status bar
+
+(ido-mode t)    ;; suggest options
+
+(setq-default tab-width 4)
+;; (setq-default indent-tabs-mode nil)
+
+(global-set-key (kbd "C-c I") (lambda()(interactive)(find-file "~/.emacs.d/init.el")))
+
+;; === UI settings
+(if (not window-system)
+  (progn 
+    (message "terminal")
+    (mouse-wheel-mode 1)
+    (menu-bar-mode -1))
+  (progn 
+    (message "GUI")
+    
+    (set-face-attribute 'default nil :height 180)
+
+    (setq initial-frame-alist `(
+      (tool-bar-lines . 0)
+      (vertical-scroll-bars . nil)
+      (top . 28) (left . 150) (width . 90) (height . 35)
+      (cursor-type . bar) (cursor-color . "green")))
+    
+    ;; (load-theme 'misterioso' t)
+    ;; (set-face-attribute 'region nil :background "#6B8E23" :foreground "white")
+    ;; (set-frame-parameter nil 'alpha 85)
+  ))
+
+
+;; === org settings
+(with-eval-after-load 'org
+  (setq org-adapt-indentation nil)
+  (setq org-src-fontify-natively t)
+  (setq org-startup-truncated nil)
+  
+  ;; (org-babel-do-load-languages 'org-babel-load-languages '((emacs-lisp . t) (shell . t) (python . t)))
+)
+
+
+;; === use-package
+
+```
 
 ## 插件
 
@@ -102,4 +162,4 @@ agenda
 
 ### Dired
 
-### EShell
+### Eshell
