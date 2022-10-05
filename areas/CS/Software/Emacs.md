@@ -10,6 +10,8 @@ tags: []
 aliases: []
 ---
 
+![](../../../resources/attachments/Emacs-20221005.png)
+
 ## [Doc](https://www.gnu.org/software/emacs/documentation.html)
 
 - tutorial
@@ -138,6 +140,7 @@ aliases: []
 ```
 
 ## 插件
+[melpa](https://melpa.org)
 
 - use-package
 - which-key
