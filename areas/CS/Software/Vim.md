@@ -144,3 +144,7 @@ if has("gui_running")
     set transparency=10  " set it at .gvimrc
 endif
 ```
+
+## Plugin
+
+[Vim Awesome](https://vimawesome.com)
