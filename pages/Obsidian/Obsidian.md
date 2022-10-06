@@ -72,6 +72,7 @@ links:
 | 表格移动行 | "ctrl+cmd+↑↓" |
 | 文件列表   |               |
 | 快速切换   |               |
+| Focus      | cmd+alt+z     | 
 
 ## 主题
 
@@ -117,6 +118,7 @@ links:
 | Note Refactor                          | ⭐️⭐️⭐️       | 非必需                                                            |
 | Customizable Page Header and Title Bar | ⭐️⭐️⭐️       |                                                                   |
 | Buttons                                | ⭐️⭐️⭐️       | 非必需                                                            |
+| Custom Frames                          | ⭐️⭐️          |                                                                   |
 | Number Headings                        | ⭐️⭐️          |                                                                   |
 | Shell commands                         | ⭐️⭐️          |                                                                   |
 | Habit Tracker                          | ⭐️⭐️          | &nbsp; 还行                                                       |
