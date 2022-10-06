@@ -11,8 +11,8 @@ alias: [开发工具,]
 links: 
 ---
 
-- [Git](Git.md)
-- [Vim](Vim.md)
+- [Git](Application/Git.md)
+- [Vim](Application/Vim.md)
 - [Emacs](Application/Emacs.md)
 - RegEx
 - Docker
