@@ -12,7 +12,7 @@
     - 若与上一条日期相同可省略
 
 ## Vim、Emacs、VSCode 的选择和适用场景
-- [Vim](../areas/CS/Software/Vim.md): 终端下文字和代码编辑的首选甚至是唯一选择
+- [Vim](../areas/CS/Application/Vim.md): 终端下文字和代码编辑的首选甚至是唯一选择
 - Emacs: 优势在于 org、lisp, 但这些我几乎都用不到, 目前我主要用它的 GUI 程序写草稿、理思路, 尽管配置要求很高并且 Vim 的 GUI 版本甚至更易用(例如 tabline), 但感觉上还是 Emacs 更顺手.
 - VSCode: 强大的多功能文本编辑器. 但目前就个人的体验而言, 它还是无法使我抛弃 Obsidian、Emacs.
 

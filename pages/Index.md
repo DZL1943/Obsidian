@@ -16,7 +16,7 @@ links:
     - [Notion](Notion/Notion.md)
     - [Obsidian](Obsidian/Obsidian.md)
 - 软件
-    - [macOS App](../areas/CS/Software/macOS%20App.md)
-    - [Android App](../areas/CS/Software/Android%20App.md)
+    - [macOS App](../areas/CS/Application/macOS%20App.md)
+    - [Android App](../areas/CS/Application/Android%20App.md)
 - 职业规划
     - [领域](../thoughts/领域.md)

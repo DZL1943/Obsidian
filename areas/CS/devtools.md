@@ -13,5 +13,6 @@ links:
 
 - [Git](Git.md)
 - [Vim](Vim.md)
+- [Emacs](Application/Emacs.md)
 - RegEx
 - Docker
