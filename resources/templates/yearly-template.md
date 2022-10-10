@@ -1,5 +1,5 @@
 ---
-date: "<% tp.file.creation_date('YYYY-MM-DD) %>"
+date: "<% tp.file.creation_date('YYYY-MM-DD') %>"
 tags: [journal, yearly,]
 ---
 
