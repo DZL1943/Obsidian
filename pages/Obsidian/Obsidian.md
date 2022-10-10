@@ -84,63 +84,62 @@ links:
 
 | Plugin                                 | Rating          | Remark                                                            |
 |:-------------------------------------- |:--------------- |:----------------------------------------------------------------- |
-| Tasks                                  | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Templater                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Markdown Table Editor                  | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Dataview                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Calendar                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Advanced Table                         | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Style Settings                         | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Outliner                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Hover Editor                           | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| cMenu                                  | ⭐️⭐️⭐️⭐️⭐️ | 建议用魔改版 Editing Toolbar                                      |
-| Kanban                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| Linter                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | Checklist                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
-| BRAT                                   | ⭐️⭐️⭐️⭐️    | 安装未上架的插件                                                  |
-| QuickAdd                               | ⭐️⭐️⭐️⭐️    | 非必需                                                            |
-| Sliding Panes                          | ⭐️⭐️⭐️⭐️    |                                                                   |
-| Periodic Notes                         | ⭐️⭐️⭐️⭐️    |                                                                   |
-| Mind Map                               | ⭐️⭐️⭐️⭐️    |                                                                   |
+| Linter                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Kanban                                 | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| cMenu                                  | ⭐️⭐️⭐️⭐️⭐️ | 建议用魔改版 Editing Toolbar                                      |
+| Hover Editor                           | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Outliner                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Style Settings                         | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Advanced Table                         | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Calendar                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Dataview                               | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Markdown Table Editor                  | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Templater                              | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
+| Tasks                                  | ⭐️⭐️⭐️⭐️⭐️ |                                                                   |
 | File Tree Alternative Plugin           | ⭐️⭐️⭐️⭐️    | 非必需                                                            |
-| Buttons                                | ⭐️⭐️⭐️       | 非必需                                                            |
-| Customizable Page Header and Title Bar | ⭐️⭐️⭐️       |                                                                   |
-| Note Refactor                          | ⭐️⭐️⭐️       | 非必需                                                            |
-| Natural Language Dates                 | ⭐️⭐️⭐️       |                                                                   |
-| Excalidraw                             | ⭐️⭐️⭐️       | 还有个 Diagrams                                                   |
-| Hotkey Helper                          | ⭐️⭐️⭐️       |                                                                   |
-| Paste URL into selection               | ⭐️⭐️⭐️       | 还有个 Auto Link Title 可能更好                                   |
-| Reminder                               | ⭐️⭐️⭐️       |                                                                   |
-| Obsidian Charts                        | ⭐️⭐️⭐️       |                                                                   |
-| CodeMirror Options                     | ⭐️⭐️⭐️       | 需配合 Editor Syntax Highlight 使用, edit mode 也要 enable 才有效 |
-| Quick Explorer                         | ⭐️⭐️⭐️       |                                                                   |
-| Obsidian Git                           | ⭐️⭐️⭐️       | 注意备份!                                                         |
-| Zoom                                   | ⭐️⭐️⭐️       |                                                                   |
+| Mind Map                               | ⭐️⭐️⭐️⭐️    |                                                                   |
+| Periodic Notes                         | ⭐️⭐️⭐️⭐️    |                                                                   |
+| Sliding Panes                          | ⭐️⭐️⭐️⭐️    |                                                                   |
+| QuickAdd                               | ⭐️⭐️⭐️⭐️    | 非必需                                                            |
+| BRAT                                   | ⭐️⭐️⭐️⭐️    | 安装未上架的插件                                                  |
+| Recent Files                           | ⭐️⭐️⭐️       | 比较需要                                                          |
 | Dictionary                             | ⭐️⭐️⭐️       |                                                                   |
-| Obsidian Image Toolkit                 | ⭐️⭐️          |                                                                   |
-| Tag Wrangler                           | ⭐️⭐️          | 个人比较少用到                                                    |
-| Recent Files                           | ⭐️⭐️          |                                                                   |
-| Focus Mode                             | ⭐️⭐️          |                                                                   |
-| Paste image rename                     | ⭐️⭐️          |                                                                   |
-| Clean Unused Images                    | ⭐️⭐️          |                                                                   |
-| Habit Tracker                          | ⭐️⭐️          | &nbsp; 还行                                                       |
-| Shell commands                         | ⭐️⭐️          |                                                                   |
-| Number Headings                        | ⭐️⭐️          |                                                                   |
-| Custom Frames                          | ⭐️⭐️          |                                                                   |
+| Zoom                                   | ⭐️⭐️⭐️       |                                                                   |
+| Obsidian Git                           | ⭐️⭐️⭐️       | 注意备份!                                                         |
+| Quick Explorer                         | ⭐️⭐️⭐️       |                                                                   |
+| CodeMirror Options                     | ⭐️⭐️⭐️       | 需配合 Editor Syntax Highlight 使用, edit mode 也要 enable 才有效 |
+| Obsidian Charts                        | ⭐️⭐️⭐️       |                                                                   |
+| Reminder                               | ⭐️⭐️⭐️       |                                                                   |
+| Paste URL into selection               | ⭐️⭐️⭐️       | 还有个 Auto Link Title 可能更好                                   |
+| Hotkey Helper                          | ⭐️⭐️⭐️       |                                                                   |
+| Excalidraw                             | ⭐️⭐️⭐️       | 还有个 Diagrams                                                   |
+| Natural Language Dates                 | ⭐️⭐️⭐️       |                                                                   |
+| Note Refactor                          | ⭐️⭐️⭐️       | 非必需                                                            |
+| Customizable Page Header and Title Bar | ⭐️⭐️⭐️       |                                                                   |
+| Buttons                                | ⭐️⭐️⭐️       | 非必需                                                            |
 | Hide Sidebars on Window Resize         | ⭐️⭐️          | 还有个 Sidebar Expand On Hover                                    |
-| Homepage                               | ⭐️             |                                                                   |
-| Wikilinks to MDLinks                   | ⭐️             |                                                                   |
+| Custom Frames                          | ⭐️⭐️          |                                                                   |
+| Number Headings                        | ⭐️⭐️          | 自动编号有延迟                                                    |
+| Shell commands                         | ⭐️⭐️          | 比如定义 git 和备份相关的命令. 注意不会触发链接更新               |
+| Habit Tracker                          | ⭐️⭐️          | 还行                                                              |
+| Clean Unused Images                    | ⭐️⭐️          |                                                                   |
+| Paste image rename                     | ⭐️⭐️          |                                                                   |
+| Focus Mode                             | ⭐️⭐️          |                                                                   |
+| Tag Wrangler                           | ⭐️⭐️          | 个人比较少用到                                                    |
+| DB Folder                              | ⭐️⭐️          | 现在基本能用了, 但还需观察一下                                    |
+| Obsidian Image Toolkit                 | ⭐️⭐️          |                                                                   |
 | Highlightr                             | ⭐️             | 右键不显示了? 貌似也不需要了 (有内置语法)                         |
+| Wikilinks to MDLinks                   | ⭐️             |                                                                   |
+| Homepage                               | ⭐️             |                                                                   |
 
 
-其他
+其他 (没需求、待研究、观望)
 
 - Advanced URI
 - Annotator
 - Creases
-- Custom Frames
 - Day Planner: 没必要吧
-- DB Folder: 理念不错, 但还有问题, 可以但没必要
 - Enhancing Mindmap
 - Fantasy Calendar
 - Flashcards
@@ -157,11 +156,10 @@ links:
 - Obsidian Tabs: 印象中不太好用
 - Org Mode
 - Pandoc Plugin: 也就那样?
-- Privacy Glasses
-- Quick Switcher++
+- Privacy Glasses: 多数时候用不上
+- Quick Switcher++: 没必要吧
 - Self-hosted LiveSync
-- Shell commands
-- Smart Random Note
+- Smart Random Note: 没啥用
 - Status Bar Pomodoro Timer
 - TagFolder
 - Text expand
