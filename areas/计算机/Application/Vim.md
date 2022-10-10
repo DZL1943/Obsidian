@@ -130,7 +130,7 @@ set stl=%<%f\%w%h%m%r\ [%{&ff}/%Y]
 set acd
 set showtabline=1
 ```
-
+gvimrc
 ```gvimrc
 set shortmess=atl
 
