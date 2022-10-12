@@ -139,8 +139,11 @@ aliases: []
 
 ```
 
+[GitHub - caisah/emacs.dz: Awesome emacs config files](https://github.com/caisah/emacs.dz)
+
 ## 插件
-[melpa](https://melpa.org)
+[melpa](https://melpa.org)  
+[GitHub - emacs-tw/awesome-emacs: A community driven list of useful Emacs packages, libraries and other items.](https://github.com/emacs-tw/awesome-emacs)  
 
 - use-package
 - which-key

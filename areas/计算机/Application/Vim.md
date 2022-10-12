@@ -145,6 +145,9 @@ if has("gui_running")
 endif
 ```
 
+[init.nvim/init.vim at master · Blacksuan19/init.nvim · GitHub](https://github.com/Blacksuan19/init.nvim/blob/master/init.vim)  
+[GitHub - spf13/spf13-vim: The ultimate vim distribution](https://github.com/spf13/spf13-vim)
+
 ## Plugin
 
 [Vim Awesome](https://vimawesome.com)
