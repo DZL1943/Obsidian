@@ -1,0 +1,17 @@
+---
+title: macOS 虚拟机
+author: ""
+description: ""
+created: "2022-10-11 17:52"
+modified: "2022-10-11 17:53"
+status: "draft"
+categories: []
+tags: []
+aliases: []
+---
+
+- PD
+- Fusion
+- CrossOver
+- UTM
+- VirtualBox
