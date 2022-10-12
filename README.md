@@ -12,8 +12,8 @@ alias: []
 
 我的 Obsidian 笔记主仓库
 
-- [Obsidian](pages/Obsidian/Obsidian.md)
-- [我的笔记工具和体系](pages/我的笔记工具和体系.md)
+- [Obsidian](pages/效率工具/Obsidian/Obsidian.md)
+- [我的笔记工具和体系](pages/效率工具/我的笔记工具和体系.md)
 
 ## Changes
 

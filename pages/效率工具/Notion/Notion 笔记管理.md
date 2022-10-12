@@ -7,4 +7,4 @@
 
 一个值得说道的点是, 在 Database 中设置一个名为 Refs 的属性用于在 DB 内引用其他页面, 这样可以在点击引用的页面时触发 sidepeek, 从而实现两个页面对照.
 
-![](../../resources/attachments/Notion%20笔记管理-20220928-1.png)
+![](../../../resources/attachments/Notion%20笔记管理-20220928-1.png)

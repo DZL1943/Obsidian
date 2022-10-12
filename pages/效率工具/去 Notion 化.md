@@ -11,7 +11,7 @@ alias: []
 ---
 ## Why?
 
-![Obsidian VS Notion](Obsidian%20VS%20Notion.md)
+![Obsidian VS Notion](效率工具/Obsidian%20VS%20Notion.md)
 
 ## How?
 
