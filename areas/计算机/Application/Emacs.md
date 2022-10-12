@@ -45,7 +45,7 @@ aliases: []
     - k kill-line
     - r/s 搜索 (C-M-r/s 正则搜索)
     - v scroll-up (可能被 cua-mode 覆盖, M-v scroll-down)
-    - w 剪切 (M-v 复制)
+    - w 剪切 (M-w 复制)
     - y 粘贴
     - / undo
     - C-c
