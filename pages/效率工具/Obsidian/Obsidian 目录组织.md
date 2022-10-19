@@ -13,7 +13,7 @@ alias: []
 - inbox
 - local: 各设备不进行同步的本地目录
     - drafts
-- ~~private~~
+- *private*
 - journals: 主要是日常记录和总结、Introspection、memo
     - daily
     - weekly
@@ -21,13 +21,13 @@ alias: []
     - task-board: 待办事项 (暂未使用)
     - context: 目标管理和上下文跟踪
     - *reflect*
-    - *memo*: 值得记录的某时刻下的事情和感受
+    - *moments*
     - *habits*
-    - jottings: 想法、速记
 - thoughts
 - pages: 包括 note、wiki、snippet 等, 内部可再按文件夹组织
 - ~~wiki~~
 - snippets
+    - jottings
 - *cards*
 - projects
 - areas: 按领域系统化的组织, MOC
