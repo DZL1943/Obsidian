@@ -105,6 +105,7 @@ set nocp
 set mouse=a
 set nu
 set ru
+set rnu
 set cul
 set cuc
 set ts=4
