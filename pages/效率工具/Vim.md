@@ -99,7 +99,7 @@ links:
   fall-back for $VIM: "/usr/share/vim"
 ```
 
-```vimrc
+```vim
 syntax enable
 set nocp
 set mouse=a
@@ -133,7 +133,7 @@ set acd
 set showtabline=1
 ```
 gvimrc
-```gvimrc
+```vim
 set shortmess=atl
 
 if has("gui_running")
@@ -153,3 +153,13 @@ endif
 ## Plugin
 
 [Vim Awesome](https://vimawesome.com)
+
+```vim
+call plug#begin()
+Plug 'preservim/vim-markdown'
+call plug#end()
+```
+
+## Tips & Issues
+
+- 如何设置默认 filetype ?
