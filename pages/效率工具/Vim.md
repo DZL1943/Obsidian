@@ -61,7 +61,7 @@ links:
 | 8   |            |                                                 | `*yy` 复制到剪贴板<div>`*p` 从剪贴板拷贝</div> |                                 |     |     |
 | 9   |            |                                                 |                                                |                                 |     |     |
 | \/  |            |                                                 | 逆向搜索                                       |                                 |     |     |
-| \[  |            |                                                 |                                                |                                 |     |     |
+| \[  |            |                                                 |                                                | back to normal                                |     |     |
 | \]  |            |                                                 |                                                | jump in                         |     |     |
 | \`  |            | `` jump                                         |                                                |                                 |     |     |
 | .   |            | repeat                                          |                                                |                                 |     |     |
@@ -162,4 +162,5 @@ call plug#end()
 
 ## Tips & Issues
 
-- 如何设置默认 filetype ?
+- 如何设置默认 filetype ?  `au VimEnter,BufNewFile,BufRead * if &ft == '' | set ft=markdown | endif`
+- 取消光标闪烁  `set gcr+=a:blinkon0`
