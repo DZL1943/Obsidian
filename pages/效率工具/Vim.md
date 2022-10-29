@@ -160,6 +160,14 @@ Plug 'preservim/vim-markdown'
 call plug#end()
 ```
 
+## Neovim
+
+### [GUI](https://github.com/neovim/neovim/wiki/Related-projects#gui)
+
+- vimR: 丑
+- neovide: 直接打不开
+- oni2: 没有 release
+
 ## Tips & Issues
 
 - 如何设置默认 filetype ?  `au VimEnter,BufNewFile,BufRead * if &ft == '' && @% == '' | set ft=markdown | endif`

@@ -85,6 +85,13 @@ aliases: []
 [Init File (GNU Emacs Manual)](https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html)
 
 ```lisp
+(setq package-archives '(
+                         ("gnu"   . "http://mirrors.tuna.tsinghua.edu.cn/elpa/gnu/")
+                         ("melpa" . "http://mirrors.tuna.tsinghua.edu.cn/elpa/melpa/")
+                         ;; ("melpa" . "https://melpa.org/packages/")
+                         ;; ("melpa-stable" . "https://stable.melpa.org/packages/")
+                         ))
+
 (package-initialize)
 
 ;; === general settings
