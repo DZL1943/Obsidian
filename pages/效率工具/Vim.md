@@ -162,5 +162,5 @@ call plug#end()
 
 ## Tips & Issues
 
-- 如何设置默认 filetype ?  `au VimEnter,BufNewFile,BufRead * if &ft == '' | set ft=markdown | endif`
+- 如何设置默认 filetype ?  `au VimEnter,BufNewFile,BufRead * if &ft == '' && @% == '' | set ft=markdown | endif`
 - 取消光标闪烁  `set gcr+=a:blinkon0`
