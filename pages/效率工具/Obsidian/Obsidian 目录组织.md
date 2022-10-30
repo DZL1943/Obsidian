@@ -3,8 +3,8 @@ title: Obsidian 目录组织
 author: ""
 description: ""
 created: "2022-09-06 21:04"
-modified: "2022-09-26 18:00"
-status: "publish"
+modified: "2022-10-30 09:51"
+status: "archive"
 categories: []
 tags: [Obsidian,]
 alias: []
