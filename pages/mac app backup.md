@@ -28,7 +28,7 @@ aliases: []
   - IINA
   - FreeFileSync
   - Amphetamine
-  - 迅雷
+  - 迅雷5
 - 效率办公
   - WPS
   - XMind
