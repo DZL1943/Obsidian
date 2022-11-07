@@ -20,6 +20,7 @@ aliases: []
   - [BetterAndBetter](https://www.better365.cn/bab2.html)
   - Hidden Bar
   - ClashX
+  - SwitchHosts
   - Keka
   - Picsee
   - Raycast
@@ -28,6 +29,7 @@ aliases: []
   - IINA
   - FreeFileSync
   - Amphetamine
+  - Stats
   - 迅雷5
 - 效率办公
   - WPS
@@ -38,6 +40,7 @@ aliases: []
   - 网易邮箱大师
   - 阿里云盘
   - Bitwarden
+  - OBS
 - 生活娱乐
   - QQ 音乐
   - Steam
@@ -60,5 +63,7 @@ aliases: []
       - fish
       - syncthing
     - JDK
-    - miniconda
     - nvm
+    - miniconda
+    - minimal-racket
+    - rust
