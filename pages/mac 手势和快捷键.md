@@ -22,4 +22,4 @@
 | 退出应用     | &nbsp;cmd+Q<div>opt+cmd+esc</div>         | 三指张开    |          |
 ![](../resources/attachments/mac%20手势和快捷键-20221107-1.png)
 ![](../resources/attachments/mac%20手势和快捷键-20221107.png)
-![](../resources/attachments/mac%20手势和快捷键-20221107-2.png)
+![](../resources/attachments/mac%20手势和快捷键-20221108.png)
