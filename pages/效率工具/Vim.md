@@ -11,16 +11,18 @@ alias: []
 links: 
 ---
 ## Modes
+
 - BASIC
-    - Normal
-    - Visual
-    - Select
-    - Insert
-    - Command-Line, Cmdline
-    - Ex
+  - Normal
+  - Visual
+  - Select
+  - Insert
+  - Command-Line, Cmdline
+  - Ex
 - ADDITIONAL
 
 ## Keys
+
 ![](../../../resources/attachments/vi-vim-cheat-sheet.svg)
 
 | key | cmdline    | normal                                          | shift                                          | ctrl                            | alt | cmd |
@@ -61,34 +63,37 @@ links:
 | 8   |            |                                                 | `*yy` 复制到剪贴板<div>`*p` 从剪贴板拷贝</div> |                                 |     |     |
 | 9   |            |                                                 |                                                |                                 |     |     |
 | \/  |            |                                                 | 逆向搜索                                       |                                 |     |     |
-| \[  |            |                                                 |                                                | back to normal                                |     |     |
+| \[  |            |                                                 |                                                | back to normal                  |     |     |
 | \]  |            |                                                 |                                                | jump in                         |     |     |
 | \`  |            | `` jump                                         |                                                |                                 |     |     |
 | .   |            | repeat                                          |                                                |                                 |     |     |
 
 ## Doc
+
 [Vim Chinese Documentation](http://vimcdoc.sourceforge.net)
 
 - usr manual
-    - 01-12 Getting Started
-    - 20-32 Editing Effectively
-    - 40-45 Tuning Vim
-    - 90        Making Vim Run
+  - 01-12 Getting Started
+  - 20-32 Editing Effectively
+  - 40-45 Tuning Vim
+  - 90        Making Vim Run
 - reference
-    - General subjects
-    - Basic editing
-    - Advanced editing
-    - Special issues
-    - GUI
-    - Interfaces
-    - Versions
-    - Remarks about special system
-    - Standard plugins
+  - General subjects
+  - Basic editing
+  - Advanced editing
+  - Special issues
+  - GUI
+  - Interfaces
+  - Versions
+  - Remarks about special system
+  - Standard plugins
 
 > 看 Getting Started 1-4 就够了
 
 ## Config
+
 配置文件路径
+
 ```
 # vim --version
    system vimrc file: "$VIM/vimrc"
@@ -128,11 +133,12 @@ set wrap
 set whichwrap=b,s,<,>,[,]
 set wildmenu
 set ls=2
-set stl=%<%f\%w%h%m%r\ [%{&ff}/%Y]
 set acd
 set showtabline=1
 ```
+
 gvimrc
+
 ```vim
 set shortmess=atl
 

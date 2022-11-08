@@ -61,6 +61,7 @@ aliases: []
     - ohmyzsh
     - Homebrew
       - fish
+      - lua
       - syncthing
     - JDK
     - nvm
