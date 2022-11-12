@@ -4,7 +4,7 @@ author: ""
 description: ""
 created: "2022-11-13 02:58"
 modified: "2022-11-13 02:58"
-status: "draft, in progress, done, publish, archive"
+status: "draft"
 categories: []
 tags: []
 aliases: []
