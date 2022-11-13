@@ -178,3 +178,5 @@ call plug#end()
 
 - 如何设置默认 filetype ?  `au VimEnter,BufNewFile,BufRead * if &ft == '' && @% == '' | set ft=markdown | endif`
 - 取消光标闪烁  `set gcr+=a:blinkon0`
+- 返回普通模式自动关闭输入法
+  - GUI: `set noimdisable`

@@ -10,7 +10,7 @@ tags: []
 aliases: []
 ---
 
-![](../resources/attachments/mac%20app%20backup-20221029-1.png)
+![](../../resources/attachments/mac%20app%20backup-20221029-1.png)
 
 - 通用
   - Firefox
