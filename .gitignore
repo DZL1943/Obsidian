@@ -8,6 +8,9 @@ logseq/
 local/*
 inbox/*
 journals/*
+summary/*
+tasks/*
+task-board
 !jottings.md
 private/
 media/

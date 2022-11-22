@@ -19,3 +19,6 @@ alias: []
 
 - 2022-09-06: 微调目录结构, 为 Notion 转 Obsidian 做准备
 - 2022-09-19: 主题从 Minimal 换到 Things 再换到 Topaz.
+- 升级到 1.0
+- 重装系统后丢失一些插件和设置
+- 2022-11-21 调整 journals

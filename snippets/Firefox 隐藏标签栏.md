@@ -11,3 +11,5 @@
 自动隐藏侧边栏
 
 [UserChrome-Tweaks/auto-hide-sidebar.css at master · Timvde/UserChrome-Tweaks · GitHub](https://github.com/Timvde/UserChrome-Tweaks/blob/master/sidebar/auto-hide-sidebar.css)
+
+全屏时自动隐藏: `browser.fullscreen.autohide`

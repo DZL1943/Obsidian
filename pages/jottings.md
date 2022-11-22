@@ -110,3 +110,18 @@ vim 似乎不太适合除了在终端编程的场景, 因为模式切换需要�
 
 我的场景之一是, 作为一个快速草稿输入的地方. 但在开启了 stage manager 后, 有点不太适用.
 好在 iterm2 的 hotkey window 能解决此问题.
+
+## 笔记管理
+
+- 自我管理
+  - Journal
+  - Task
+  - Summary
+- 知识管理
+  - Wiki
+  - Note
+  - Snippet
+  - Jot
+  - Thought
+- 项目管理
+- 信息管理
