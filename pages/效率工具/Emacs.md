@@ -10,7 +10,7 @@ tags: []
 aliases: []
 ---
 
-![](../../../resources/attachments/Emacs-20221005.png)
+![](../../misc/attachments/Emacs-20221005.png)
 
 ## [Doc](https://www.gnu.org/software/emacs/documentation.html)
 

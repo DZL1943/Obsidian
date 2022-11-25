@@ -16,7 +16,6 @@ private/
 media/
 exports/
 archives/*
-misc/*
 _notion-like-tables/
 ext/*
 .DS_Store

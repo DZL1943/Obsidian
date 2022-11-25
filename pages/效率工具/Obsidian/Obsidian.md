@@ -170,7 +170,7 @@ links:
 - Vantage: 没必要
 
 
-![plugins-20221002|200](../../../resources/attachments/Obsidian-20221002.png)
+![plugins-20221002|200](../../../misc/attachments/Obsidian-20221002.png)
 
 ## Tips & Issues
 

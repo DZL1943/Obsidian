@@ -23,7 +23,7 @@ links:
 
 ## Keys
 
-![](../../../resources/attachments/vi-vim-cheat-sheet.svg)
+![](../../misc/attachments/vi-vim-cheat-sheet.svg)
 
 | key | cmdline    | normal                                          | shift                                          | ctrl                            | alt | cmd |
 |:--- |:---------- |:----------------------------------------------- |:---------------------------------------------- |:------------------------------- |:--- |:--- |

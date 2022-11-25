@@ -1,4 +1,4 @@
-![](../../../resources/attachments/Notion%20公式实践%20——%20日历、进度条-20220928.png)
+![](../../../misc/attachments/Notion%20公式实践%20——%20日历、进度条-20220928.png)
 
 ```text
 BOM: dateSubtract(now(), date(now()) - 1, "days")

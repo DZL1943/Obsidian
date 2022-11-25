@@ -14,4 +14,4 @@
 而如今, 我的碎片记录也分出来好几种 Type, 这时 BoardView 则成为了更好的选择.
 
 ---
-![](../../../resources/attachments/Notion%20碎片记录-20220928.png)
+![](../../../misc/attachments/Notion%20碎片记录-20220928.png)

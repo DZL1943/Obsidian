@@ -29,8 +29,8 @@ alias: []
 - Archives
 
 ---
-![](../../../resources/attachments/我的%20Notion%20组织结构-20220928.png)
+![](../../../misc/attachments/我的%20Notion%20组织结构-20220928.png)
 
-![](../../../resources/attachments/我的%20Notion%20组织结构-20220928-1.png)
+![](../../../misc/attachments/我的%20Notion%20组织结构-20220928-1.png)
 
-![](../../../resources/attachments/我的%20Notion%20组织结构-20220928-2.png)
+![](../../../misc/attachments/我的%20Notion%20组织结构-20220928-2.png)

@@ -20,6 +20,6 @@
 | 窗口最小化   | cmd+m<div>cmd+h</div>                     | 三指↓       |          |
 | 关闭窗口     | cmd+w<div>opt+cmd+w</div>                 | 三指合拢    |          |
 | 退出应用     | &nbsp;cmd+Q<div>opt+cmd+esc</div>         | 三指张开    |          |
-![](../../resources/attachments/mac%20手势和快捷键-20221107-1.png)
-![](../../resources/attachments/mac%20手势和快捷键-20221107.png)
-![](../../resources/attachments/mac%20手势和快捷键-20221108.png)
+![](../../misc/attachments/mac%20手势和快捷键-20221107-1.png)
+![](../../misc/attachments/mac%20手势和快捷键-20221107.png)
+![](../../misc/attachments/mac%20手势和快捷键-20221108.png)

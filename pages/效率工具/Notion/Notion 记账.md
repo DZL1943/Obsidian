@@ -18,4 +18,4 @@
 > 资产 = 负债 + 权益 (等号可以理解为来源)
 >  对于每个账户: 期初余额 + 收入 - 支出 = 期末余额
 
-![](../../../resources/attachments/Notion%20记账-20220928.png)
+![](../../../misc/attachments/Notion%20记账-20220928.png)
